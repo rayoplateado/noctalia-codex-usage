@@ -2,6 +2,8 @@
 
 A compact Noctalia/Quickshell plugin that shows OpenAI Codex usage limits in the Noctalia bar and opens an attached details panel on click.
 
+![Noctalia CodexBar usage panel](assets/codex-usage.png)
+
 ## Features
 
 - Compact bar gauges for the Codex 5 hour and weekly limits.
