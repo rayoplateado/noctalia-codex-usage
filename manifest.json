@@ -1,0 +1,22 @@
+{
+  "id": "codexbar-usage",
+  "name": "CodexBar Usage",
+  "version": "0.1.0",
+  "author": "Ray García",
+  "description": "Shows CodexBar CLI usage limits in the Noctalia bar.",
+  "entryPoints": {
+    "barWidget": "BarWidget.qml",
+    "panel": "Panel.qml",
+    "settings": "Settings.qml"
+  },
+  "metadata": {
+    "icon": "ai",
+    "name": "CodexBar",
+    "description": "Codex rate-limit usage from codexbar usage --source cli",
+    "defaultSettings": {
+      "refreshIntervalSec": 60,
+      "codexbarPath": "codexbar",
+      "codexbarSource": "cli"
+    }
+  }
+}

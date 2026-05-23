@@ -1,0 +1,5 @@
+{
+  "refreshIntervalSec": 60,
+  "codexbarPath": "codexbar",
+  "codexbarSource": "cli"
+}
